@@ -10,14 +10,14 @@ Received a request from Client to fill missing values in their dataset containin
 2. `DataPointers` fileds required last time value to be inserted as missing values  
 
 <figure>
-    <img src="../assets/img/post_img/issue.png" alt="Snippet of Dataset">
+    <img src="../assets/img/post_img/handle-missing-data/issue.png" alt="Snippet of Dataset">
     <figcaption>Sample from Data highlighting requirement</figcaption>
 </figure>
 
 I picked up _Alteryx_ for this job since it easily allows news rows to be created with *Generate rows* tool. Post which I used *Multi-Row Formula* tool to handle datapointers missing values. Here is my **solution** - 
 
 <figure>
-    <img src="../assets/img/post_img/workflow.JPG" alt="Alteryx workflow">
+    <img src="../assets/img/post_img/handle-missing-data/workflow.JPG" alt="Alteryx workflow">
     <figcaption>Sample from Data highlighting requirement</figcaption>
 </figure>
 
