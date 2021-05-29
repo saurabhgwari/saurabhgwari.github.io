@@ -1,18 +1,14 @@
 ---
-title: Colophon
+title: About me
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Analyst with passion for Data, currently part of Bain's Global People Analytics team and based out in Delhi, India. If you want to learn more about my professional qualifications follow [@LinkedIn](https://www.linkedin.com/in/gwari/).
 
-If you have a question about him or else, just send a letter to him.
+In my part time, I participate in Tableau Community challenges or explore new things in Python! Also, I love to play computer games: Valorant & Rocket League. 
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
-
-**may u needs ✨**
+*if any of this interests you or you just want to say hi*
 
 - {{ site.author.email }}
-- github.com/{{ site.author.github }}

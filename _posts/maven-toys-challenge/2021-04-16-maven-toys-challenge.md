@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Maven Toys Challenge"
-date:   2021-05-16 09:29:20 +0700
-tags: [Tableau, Challenges]
+date:   2021-04-16 09:29:20 +0700
+tags: [Tableau]
 ---
 
 Participated in Toys Challenge by Maven Analytics, objective was to share a single-page visual or dashboard that outlines a potential expansion plan and contains the supporting data from analysis. Dataset contained 4 tables (csv) :

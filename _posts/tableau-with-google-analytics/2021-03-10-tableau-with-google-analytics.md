@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Handling missing data with Alteryx"
-date:   2021-05-21 09:29:20 +0700
-tags: [Alteryx]
+title:  "Using Tableau to visualize Google Analytics Data"
+date:   2021-03-10 09:29:20 +0700
+tags: [Tableau, Google Analytics]
 ---
 
 Received a request from Client to fill missing values in their dataset containing **11 years** of data.
