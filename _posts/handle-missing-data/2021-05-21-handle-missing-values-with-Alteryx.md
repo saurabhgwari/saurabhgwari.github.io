@@ -3,7 +3,6 @@ layout: post
 title:  "Handling missing data with Alteryx"
 date:   2021-05-21 09:29:20 +0700
 tags: [Alteryx]
-image: "/handle-missing-data/issue.png"
 ---
 
 Received a request from Client to fill missing values in their dataset containing **11 years** of data.
@@ -11,14 +10,14 @@ Received a request from Client to fill missing values in their dataset containin
 2. `DataPointers` fileds required last time value to be inserted as missing values  
 
 <figure>
-    <img src="/handle-missing-data/issue.png" alt="Snippet of Dataset">
+    <img src="../assets/img/post_img/issue.png" alt="Snippet of Dataset">
     <figcaption>Sample from Data highlighting requirement</figcaption>
 </figure>
 
 I picked up _Alteryx_ for this job since it easily allows news rows to be created with *Generate rows* tool. Post which I used *Multi-Row Formula* tool to handle datapointers missing values. Here is my **solution** - 
 
 <figure>
-    <img src="/handle-missing-data/workflow.jpg" alt="Alteryx workflow">
+    <img src="../assets/img/post_img/workflow.JPG" alt="Alteryx workflow">
     <figcaption>Sample from Data highlighting requirement</figcaption>
 </figure>
 

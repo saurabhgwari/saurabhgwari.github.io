@@ -3,7 +3,6 @@ layout: post
 title:  "Maven Toys Challenge"
 date:   2021-05-16 09:29:20 +0700
 tags: [Tableau, Challenges]
-image: "/maven-toys-challenge/maven-dashboard.jpg"
 ---
 
 Participated in Toys Challenge by Maven Analytics, objective was to share a single-page visual or dashboard that outlines a potential expansion plan and contains the supporting data from analysis. Dataset contained 4 tables (csv) :
@@ -14,7 +13,7 @@ Participated in Toys Challenge by Maven Analytics, objective was to share a sing
 
 <figure>
 <a href='https://public.tableau.com/app/profile/gwari/viz/MavenToysChallenge_16211758414430/Analysis' target="_blank">
-    <img src="{{ page.image }}" alt="Maven Toys Challenge">
+    <img src="./maven-dashboard.jpg" alt="Maven Toys Challenge">
     <figcaption>Click for Tableau public interactive version</figcaption>
 </a>
 </figure>
