@@ -14,7 +14,7 @@ Participated in Toys Challenge by Maven Analytics, objective was to share a sing
 
 <figure>
 <a href='https://public.tableau.com/app/profile/gwari/viz/MavenToysChallenge_16211758414430/Analysis' target="_blank">
-    <img src="{{ page.image }}" alt="ilustrasi repo yang mau diupdate">
+    <img src="{{ page.image }}" alt="Maven Toys Challenge">
     <figcaption>Click for Tableau public interactive version</figcaption>
 </a>
 </figure>
