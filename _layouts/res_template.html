@@ -1,0 +1,39 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+{% include header.html %}
+
+<body data-theme="{{ site.mode }}" class="notransition">
+
+  <script>
+    const body = document.body;
+    const data = body.getAttribute("data-theme");
+
+    const initTheme = (state) => {
+      if (state === "dark") {
+        body.setAttribute("data-theme", "dark");
+      } else if (state === "light") {
+        body.removeAttribute("data-theme");
+      } else {
+        localStorage.setItem("theme", data);
+      }
+    };
+ 
+    initTheme(localStorage.getItem("theme"));
+    
+    setTimeout(() => body.classList.remove("notransition"), 75);
+  </script>
+
+  {% include navbar.html %}
+  <div class="wrapper">
+
+    <a href='https://drive.google.com/u/0/uc?id=1yWao8f86hZTZrJzYg7C39csQQQ10RbO6&export=download' download style="float:right">Download</a>
+
+    <iframe src="https://drive.google.com/file/d/1yWao8f86hZTZrJzYg7C39csQQQ10RbO6/preview?usp=sharing" title="Resume : Saurabh Gwari" height="900" width="100%">  
+    </iframe>
+    {% include footer.html %}
+  </div>
+</body>
+</html>
