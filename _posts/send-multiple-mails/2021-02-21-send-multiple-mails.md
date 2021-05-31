@@ -144,7 +144,7 @@ I have used HTML to define body of email, which allows formatting email as per o
 Also, notice the custom subject & greetings in every email.
 
 <figure>
-    <img src="../assets/img/post_img/send-multiple-mails/mail.png" alt="Generated email sample">
+    <img src="../assets/img/post_img/send-multiple-mails/mail.PNG" alt="Generated email sample">
     <figcaption>Sample Email generated</figcaption>
 </figure>
 
