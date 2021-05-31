@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Maven Toys Challenge"
+title:  "Maven Toys Challenge in Tableau"
 date:   2021-04-16 09:29:20 +0700
 tags: [Tableau]
 ---
