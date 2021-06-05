@@ -1,7 +1,7 @@
 # Site settings
 title: Saurabh Gwari # site title
 description: >- # site description
-  Portfolio of Saurabh Gwari, Data Analyst with extensive experience in Data preperation, Analysis and Visualization.
+  Portfolio of Saurabh Gwari, Data Analyst with extensive experience in Data preparation, Analysis and Visualization.
   Connect <a href="https://www.linkedin.com/in/gwari/" target="_blank" rel="noopener">@LinkedIn</a>.
 lang: en-US # default lang
 timezone: Asia/Jakarta # set your timezone
@@ -13,7 +13,7 @@ mode: light # default theme "dark" | "light"
 author:
   name: Saurabh Gwari # author name
   bio: >- # tell to the world
-    Welcome to my Data Analytics portfolio, collection of projects I have worked on related to Data preperation, analysis and visualization.  
+    Welcome to my Data Analytics portfolio, collection of projects I have worked on related to Data preparation, analysis and visualization.  
   username: saurabhgwari # general username
   github: saurabhgwari # github username
   twitter: twitter_username # twitter username
