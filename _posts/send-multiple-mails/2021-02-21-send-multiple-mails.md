@@ -19,7 +19,7 @@ df = pd.read_excel(io=fileDir+"\\"+fileName)
 df.head()
 ```
 
-Emailer function below takes input each row from above table and generates draft email. Here the name of person changes in each email, but other values such as "Status" can be used in email body as well with attachements etc.
+Emailer function below takes input each row from above table and generates draft email. Here the name of person changes in each email, but other values such as "Status" can be used in email body as well with attachments etc.
 
 
 <div>
