@@ -5,9 +5,9 @@ layout: page
 comments: false
 ---
 
-Analyst with passion for Data, currently part of Bain's Global People Analytics team and based out in Delhi, India. Hands on experience working with Tableau,Alteryx, Python, SQL.  If you want to learn more about my professional qualifications follow [@LinkedIn](https://www.linkedin.com/in/gwari/).
+Senior Analyst with passion for Data, currently part of Accenture and based out in Delhi, India. Hands on experience working with Tableau,Alteryx, Python, SQL and Excel.  If you want to learn more about my professional qualifications follow [@LinkedIn](https://www.linkedin.com/in/gwari/).
 
-In my part time, I participate in Tableau Community challenges or explore datasets in Python! Also, I love to play video games.
+In my part time, I participate in Tableau Community challenges or explore datasets in Python!
 
 *if any of this interests you or you just want to say hi*
 
